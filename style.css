@@ -23,3 +23,6 @@ body{
 .heighht{
     height: auto;
 }
+.imgg{
+    min-height: 280px;
+}
