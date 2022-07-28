@@ -2,12 +2,24 @@ body{
     margin: 50px 50px;
    
 }
+.textcenter{
+    padding-bottom: 50px;
+    max-height: 80px;
+    margin-bottom: 200px;
+}
+
 .reg-container-fluid{
     padding-left: 450px;
 }
+
+.style{
+   
+    text-shadow: 2px 1px black ;
+}
+
 .heightt{
     height: auto;
 }
-.style{
-    text-shadow: 2px 1px black ;
+.heighht{
+    height: auto;
 }
